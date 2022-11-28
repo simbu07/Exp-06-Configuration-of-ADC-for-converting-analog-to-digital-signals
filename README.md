@@ -244,7 +244,7 @@ SL NO	% OF POT VALUE	ADC VALUE
 
 ![pm6-4](https://user-images.githubusercontent.com/94525786/202895449-425d899e-7607-4b9d-af2e-25677b8c638d.png)
 
-Result :
+## Result :
 Configuring an ADC and the input values are displayed on LCD screen 
 
 
